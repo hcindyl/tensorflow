@@ -1,0 +1,5 @@
+#ifndef TENSORFLOW_LITE_MICRO_EXAMPLES_MOBILE_SSD_V2_QUANT_MOBILE_SSD_V2_QUANT_MODEL_DATA_H_
+#define TENSORFLOW_LITE_MICRO_EXAMPLES_MOBILE_SSD_V2_QUANT_MOBILE_SSD_V2_QUANT_MODEL_DATA_H_
+extern const unsigned char g_mobile_ssd_v2_quant_model_data[];
+extern const unsigned int g_mobile_ssd_v2_quant_model_data_size;
+#endif
